@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "fu-tss-seminars"
+version = "0.1.0"
+description = ""
+authors = ["AndBoyS <andboyxd@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+networkx = "^3.2.1"
+pandas = "^2.1.4"
+tqdm = "^4.66.1"
+mypy = "^1.8.0"
+ruff = "^0.1.11"
+jupyter = "^1.0.0"
+matplotlib = "^3.8.2"
+networkx-stubs = "^0.0.1"
+pickleshare = "^0.7.5"
+pandas-stubs = "^2.1.4.231227"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
