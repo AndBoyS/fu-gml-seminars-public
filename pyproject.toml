@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "fu-tss-seminars"
+name = "fu-gml-seminars-public"
 version = "0.1.0"
 description = ""
 authors = ["AndBoyS <andboyxd@gmail.com>"]
