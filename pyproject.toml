@@ -19,6 +19,8 @@ pickleshare = "^0.7.5"
 pandas-stubs = "^2.1.4.231227"
 scipy = "^1.12.0"
 seaborn = "^0.13.2"
+scikit-learn = "^1.4.1.post1"
+torch = "^2.2.1"
 
 
 [build-system]
